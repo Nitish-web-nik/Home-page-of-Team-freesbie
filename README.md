@@ -3,7 +3,7 @@
 
 
 
-## *The project is mainly based on the making a homepage and updating codes for a Sports Club.*
+## *The project is based on the making a homepage and updating codes for a Sports Club.*
 
 
 
