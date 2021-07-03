@@ -6,7 +6,6 @@
 ## *The project is based on the making a homepage and updating codes for a Sports Club.*
 
 
-
 ### The project contains HTML and CSS.
 - It includes HTML code which is mainly based on use of Table attributes.
 
