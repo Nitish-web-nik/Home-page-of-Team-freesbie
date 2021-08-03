@@ -90,6 +90,7 @@ th:first-child, tr td:first-child {
     text-align: left;
 }
 
+
 /* Set opacity of table rows*/
 tr td {
     opacity: 0.6;
